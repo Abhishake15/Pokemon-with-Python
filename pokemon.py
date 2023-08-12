@@ -3,17 +3,6 @@ import re
 from collections import Counter
 
 
-def fireType():
-Expand
-pokemon.py
-7 KB
-for problem 2 we still have to do file output, but that's p easy
-we did it in pokemon already
-﻿
-import csv
-import re
-from collections import Counter
-
 
 def fireType():
     file = open('pokemonTrain.csv')

@@ -1,0 +1,12 @@
+normal: mild, quiet, naughty, brave, brave, jolly
+NaN: docile, relaxed, serious, hasty, bold, rash, quiet, calm, bold, impish, lax, naughty, impish, bashful, impish, serious, naive, jolly, mild, hardy
+fighting: lonely, adamant, careful
+grass: sassy, naive, lonely, bashful, gentle, docile, bold, quiet, quiet, calm, adamant
+fire: modest, gentle, brave, brave, rash, timid, naughty, impish, hardy, lax
+fairy: impish, sassy, naughty
+rock: naughty, mild, bashful, docile, impish
+ground: gentle, quiet, hardy, bashful
+bug: careful
+water: hardy
+flying: impish
+electric: hardy

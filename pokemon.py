@@ -1,5 +1,3 @@
-# Zachary Hui (zsh12), Yawen Xu (yx251), Abhishek Agarwal (aa2122), Anirudh Rao (ar1637)
-
 import csv
 import re
 from collections import Counter
